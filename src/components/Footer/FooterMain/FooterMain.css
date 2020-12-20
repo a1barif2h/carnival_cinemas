@@ -1,0 +1,13 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+}
+ul li a small {
+  color: gray;
+}
+ul li a small:hover {
+  color: rgba(58, 58, 219, 0.938);
+}
