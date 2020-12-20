@@ -10,9 +10,9 @@
 
 ### Up Coming Features
 
-1. If he chooses a movie with a certain time and date, then should be able to see 40 seats as icons, each icon is clickable.
+1. If user chooses a movie with a certain time and date, then should be able to see 40 seats as icons, each icon is clickable.
 2. Available seat and booked seat will have different color
 3. If a seat is booked, then icon won't be clickable
-4. He can only booked the seat which has not booked yet
+4. User can only booked the seat which has not booked yet
 5. A person can book upto 10 seat at a time
 6. If all the seat has been bookend, there should be an message “House is full”
